@@ -1,0 +1,23 @@
+{
+  "name": "xpose",
+  "version": "0.2.0",
+  "description": "A tiny, flexible dependency injection library",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "Dependency Injection",
+    "IoC",
+    "Inversion of Control",
+    "File Structure",
+    "Rapid Prototyping",
+    "Import Manager"
+  ],
+  "author": "Ryan Vandersmith (https://github.com/rvanasa)",
+  "homepage": "https://github.com/rvanasa/node-xpose",
+  "license": "ISC",
+  "dependencies": {
+    "fast-glob": "^3.1.0",
+    "normalize-path": "latest",
+    "debug": "^4.1.1"
+  }
+}
